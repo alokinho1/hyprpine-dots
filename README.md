@@ -18,7 +18,6 @@ i have ocd i think
   
    ```
    curl -sS https://starship.rs/install.sh | sh
-
    
 ## Installation
 
