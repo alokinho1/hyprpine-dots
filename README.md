@@ -10,7 +10,7 @@ i have ocd i think
 - cava
 - btop
 - nvim
-- nwg-look ( to theme gtk )
+- nwg-look
 - rofi
 - waypaper
 - nerdfetch
