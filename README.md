@@ -12,6 +12,7 @@ i have ocd i think
 - nvim
 - nwg-look
 - rofi
+- waypaper
 
 ## Installation
 
