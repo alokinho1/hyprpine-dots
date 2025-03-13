@@ -34,7 +34,6 @@ git clone https://github.com/alokinho1/hyprpine-dots.git
 cd hyprpine-dots
 ```
 then, move the contents of `.config` to $HOME/.config
-amd the contents of `.icons` to $HOME/.icons
 (exclude Assets folder & Wallpaper folder)
 
 ## Extra (Optional)
@@ -48,6 +47,10 @@ amd the contents of `.icons` to $HOME/.icons
 
 - Enable network name:
 Open Hyprpaanel dashboard -> Settings -> Bar -> Network -> Enable Network Name
+
+- Icons:
+https://www.gnome-look.org/p/1810549
+
 ## Preview 
 ![Alt Text](https://github.com/alokinho1/hyprpine-dots/blob/main/Assets/Screenshot-2025-03-12_19%3A14%3A27.png)
 ![Alt Text](Assets/Screenshot-2025-03-12_19:14:39.png)
