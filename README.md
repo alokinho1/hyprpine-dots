@@ -46,6 +46,8 @@ amd the contents of `.icons` to $HOME/.icons
 
    # its probably enabled in startup at .config/hypr/hyprland.conf
 
+- Enable network name
+Open Hyprpaanel dashboard -> Settings -> Bar -> Network -> Enable Network Name
 ## Preview 
 ![Alt Text](https://github.com/alokinho1/hyprpine-dots/blob/main/Assets/Screenshot-2025-03-12_19%3A14%3A27.png)
 ![Alt Text](Assets/Screenshot-2025-03-12_19:14:39.png)
