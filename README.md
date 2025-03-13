@@ -13,3 +13,8 @@ i have ocd
 
 ## Installation
 
+```
+git clone https://github.com/alokinho1/hyprpine-dots.git
+cd hyprpine-dots
+```
+then, move the contents of `.config` to $HOME/.config (exclude Assets folder & Wallpaper folder)
