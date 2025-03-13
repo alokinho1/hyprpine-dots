@@ -16,6 +16,15 @@ i have ocd i think
 - nerdfetch
 - [starship](https://starship.rs/)
 
+`yay -S nvim waypaper nerdfetch hyprpanel`
+`sudo pacman -S kitty nemo kvantum cava btop nwg-look rofi`
+`curl -sS https://starship.rs/install.sh | sh` and paste these in your .bashrc or .zshrc
+###  ~/.bashrc
+`eval "$(starship init bash)"`
+### ~/.zshrc
+`eval "$(starship init zsh)"`
+
+
 ## Installation
 
 ```
