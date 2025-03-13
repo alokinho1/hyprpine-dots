@@ -20,7 +20,8 @@ git clone https://github.com/alokinho1/hyprpine-dots.git
 cd hyprpine-dots
 ```
 then, move the contents of `.config` to $HOME/.config
-amd the contents of `.icons` to (exclude Assets folder & Wallpaper folder)
+amd the contents of `.icons` to $HOME/.icons
+(exclude Assets folder & Wallpaper folder)
 
 ## Extra (Optional)
 
