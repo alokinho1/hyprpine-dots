@@ -14,7 +14,12 @@ i have ocd i think
 - rofi
 - waypaper
 - nerdfetch
+- starship
+  
+   ```
+   curl -sS https://starship.rs/install.sh | sh
 
+   
 ## Installation
 
 ```
