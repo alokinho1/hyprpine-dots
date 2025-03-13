@@ -24,7 +24,7 @@ amd the contents of `.icons` to (exclude Assets folder & Wallpaper folder)
 
 ## Extra (Optional)
 
-- Install hyprsunst
+- Install hyprsunset (save your eyes)
    ```
    yay -S hyprsunset
    hyprsunset -t 5000
