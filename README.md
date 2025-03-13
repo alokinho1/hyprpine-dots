@@ -1,7 +1,7 @@
 # hyprpine-dots
 i have ocd i think
 
-## Preequistories
+## Download These
 
 - [hyprpanel](https://hyprpanel.com/)
 - kitty
