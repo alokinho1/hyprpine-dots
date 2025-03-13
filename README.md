@@ -13,6 +13,7 @@ i have ocd i think
 - nwg-look
 - rofi
 - waypaper
+- nerdfetch
 
 ## Installation
 
