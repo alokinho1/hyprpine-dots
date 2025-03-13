@@ -46,7 +46,7 @@ then, move the contents of `.config` to $HOME/.config
    # its probably enabled in startup at .config/hypr/hyprland.conf
 
 - Enable network name:
-Open Hyprpaanel dashboard -> Settings -> Bar -> Network -> Enable Network Name
+Open Hyprpanel dashboard -> Settings -> Bar -> Network -> Enable Network Name
 
 - Icons:
 https://www.gnome-look.org/p/1810549
