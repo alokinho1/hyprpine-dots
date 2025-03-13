@@ -14,11 +14,7 @@ i have ocd i think
 - rofi
 - waypaper
 - nerdfetch
-- starship
-  
-   ```
-   curl -sS https://starship.rs/install.sh | sh
-check [this](https://starship.rs/) out before installing 
+- [starship](https://starship.rs/)
 
 ## Installation
 
