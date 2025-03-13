@@ -18,6 +18,8 @@ i have ocd i think
   
    ```
    curl -sS https://starship.rs/install.sh | sh
+check [this](https://starship.rs/) out before installing 
+
 ## Installation
 
 ```
