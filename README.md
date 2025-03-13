@@ -29,6 +29,8 @@ amd the contents of `.icons` to (exclude Assets folder & Wallpaper folder)
    yay -S hyprsunset
    hyprsunset -t 5000
 
+   # its probably enabled in startup at .config/hypr/hyprland.conf
+
 ## Preview 
 ![Alt Text](https://github.com/alokinho1/hyprpine-dots/blob/main/Assets/Screenshot-2025-03-12_19%3A14%3A27.png)
 ![Alt Text](Assets/Screenshot-2025-03-12_19:14:39.png)
